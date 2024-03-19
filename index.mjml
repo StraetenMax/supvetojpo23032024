@@ -56,18 +56,18 @@
         </mj-section>
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-hotellerie.fr" padding="0" src="img/bdSupveto27012024-80.jpg" target="_blank" alt="Logo de Supveto" />
+                <mj-image href="https://ecosup-sante.fr/supveto" padding="0" src="img/bdSupveto27012024-80.jpg" target="_blank" alt="Logo de Supveto" />
             </mj-column>
         </mj-section>
         <!--section titre-->
         <mj-section mj-class="d-section">
             <mj-column>
-                <mj-image href="https://ecosup-hotellerie.fr" padding="0px" src="https://img.mailinblue.com/3403292/images/content_library/original/65f99340e4e99239d0d69263.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 23 mars 2024"/>
+                <mj-image href="https://ecosup-sante.fr/supveto" padding="0px" src="https://img.mailinblue.com/3403292/images/content_library/original/65f99340e4e99239d0d69263.jpg" target="_blank" alt="Affiche de la Journée Portes Ouvertes du samedi 23 mars 2024"/>
                 <mj-text align="left" mj-class="d-sous-titre" text-transform="uppercase" font-weight="700" css-class="m-padding">
                    <strong>Invitation à la JPO du 23 mars 2024</strong>
                 </mj-text>
                 <mj-text align="left" mj-class="d-titre" font-weight="700" css-class="m-padding">
-                Rejoignez Ecosup Hôtellerie
+                Rejoignez Supveto
                 </mj-text>
             </mj-column>
         </mj-section>
@@ -75,7 +75,7 @@
         <mj-section mj-class="d-section">
             <mj-column>
                 <mj-text mj-class="d-text" css-class="m-padding">
-                <strong>{{ contact.PRENOM }}</strong>, vous avez choisi de vous investir dans les métiers de l'Hôtellerie et de la Restauration, mais vous ne connaissez pas les atouts de notre école (formations en alternance, intervenants reconnus, structure familiale... ). Alors rencontrons-nous lors de notre <strong>Journée Portes Ouvertes</strong>, 
+                <strong>{{ contact.PRENOM }}</strong>, vous avez choisi de vous investir dans les métiers de la santé animale, mais vous ne connaissez pas les atouts de notre école (formations en alternance, intervenants reconnus, structure familiale... ). Alors rencontrons-nous lors de notre <strong>Journée Portes Ouvertes</strong>, 
                 </mj-text>
                  <mj-text mj-class="d-date" css-class="m-padding" font-weight="700">
                 le Samedi 23 mars de 9h30 à 13h.
@@ -91,13 +91,13 @@
                 A bientôt !
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="600">
-                Hélène <span style="text-transform:uppercase">Salmon</span>
+                Julie <span style="text-transform:uppercase">Kokocinski</span>
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="400">
                 Responsable pédagogique
                 </mj-text>
                 <mj-text padding="0 60px 0 300px" mj-class="d-signature" css-class="m-padding-signature2" font-weight="400">
-                Ecosup Hôtellerie
+                Supveto
                 </mj-text>    
                 </mj-column>
                 </mj-section>
